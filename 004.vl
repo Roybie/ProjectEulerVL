@@ -1,0 +1,18 @@
+$ Project Euler problem #4 $
+i999;}.                                 $ two numbers to multiply together in a[0] and a[1] $
+'ay}vy*}p}p                             $ store the product in a[3] and a[4] $
+
+$ check for palindrome $
+$ b array of digits $
+$ c[0] = 10^n, c[1] = n $
+$ d[0] reversed number $
+$ e = temp $
+$ f = current max $
+
+'ci1;}i0;'dp
+3`ay10/pV'ep1`cyv'ey`bp3`ay0?j1`ca^     $ split product into digit array $
+1`cyv`byv'cy*v'dy+p1`cx0>j'cy10*p^      $ generate reversed number $
+2`ayv'dy-0!j'dyv'fy-0<j'dy'fp           $ set new max if bigger than previous $
+'ay900<ji999;1`ay900?2jx13k             $ decrement starting numbers $
+'ax14k                                  $ loop back to multiplcation $
+'fyW                                    $ output max $
