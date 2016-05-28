@@ -1,6 +1,6 @@
 $ Project Euler problem #4 $
 i999;}.                                 $ two numbers to multiply together in a[0] and a[1] $
-'ay}vy*}p}p                             $ store the product in a[3] and a[4] $
+'ay}vy*}p}p                             $ store the product in a[2] and a[3] $
 
 $ check for palindrome $
 $ b array of digits $
