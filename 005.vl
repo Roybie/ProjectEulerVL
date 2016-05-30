@@ -3,12 +3,12 @@ $ Smallest positive integer divisible by all numbers 1 to 20 $
 
 'ai10;'ba
 'aa21?3j'by'cp2j
-'cyv'by+p
-'ayv'by/V0!k2k
+'cY'by+p
+'aY'by/v0!k2k
 'byW
 
 $ alternative brute force, (1000x) slower way $
 $
 'ay20+p]i20;
-v'ay/V0!k]x10!^'ayW
+V'ay/v0!k]x10!^'ayW
 $

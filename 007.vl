@@ -7,8 +7,8 @@ i2;                 $ a contains all previously found primes $
 'ci3;               $ c is current number to check $
 
 'bi0;               $ reset index of a to divide next $
-'bY`ayv*v'cy>3j     $ if a[b] is bigger than sqrt(c) then c must be prime $
-'bY`aY'cy/V0?j'bak  $ if a[b] divides into c evenly, not a prime, otherwise increase b and try next prime $
+'bY`ayV*V'cy>3j     $ if a[b] is bigger than sqrt(c) then c must be prime $
+'bY`aY'cy/v0?j'bak  $ if a[b] divides into c evenly, not a prime, otherwise increase b and try next prime $
 'caa3k              $ increase c by 2 (odds only) and try again $
 'da10000?2j         $ check if we've reached the 10001th prime and exit $
 'cy'dY`ap2k         $ set a[d] to latest prime c $

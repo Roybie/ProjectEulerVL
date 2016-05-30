@@ -1,6 +1,6 @@
 $ Project Euler problem #4 $
 i999;}.                                 $ two numbers to multiply together in a[0] and a[1] $
-'ay}vy*}p}p                             $ store the product in a[2] and a[3] $
+'ay}Y*}p}p                              $ store the product in a[2] and a[3] $
 
 $ check for palindrome $
 $ b array of digits $
@@ -10,9 +10,9 @@ $ e = temp $
 $ f = current max $
 
 'ci1;}i0;'dp
-3`ay10/pV'ep1`cyv'ey`bp3`ay0?j1`ca^     $ split product into digit array $
-1`cyv`byv'cy*v'dy+p1`cx0>j'cy10*p^      $ generate reversed number $
-2`ayv'dy-0!j'dyv'fy-0<j'dy'fp           $ set new max if bigger than previous $
+3`ay10/pv'ep1`cY'ey`bp3`ay0?j1`ca^      $ split product into digit array $
+1`cY`bY'cy*V'dy+p1`cx0>j'cy10*p^        $ generate reversed number $
+2`aY'dy-0!j'dY'fy-0<j'dy'fp             $ set new max if bigger than previous $
 'ay900<ji999;1`ay900?2jx13k             $ decrement starting numbers $
 'ax14k                                  $ loop back to multiplcation $
 'fyW                                    $ output max $
