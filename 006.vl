@@ -4,7 +4,7 @@ $ Difference between sum of the squares of first 100 natural numbers and square 
 $ Brute Force Loop $
 
 100('aaV*V'cy+p'aY'by+p)
-V*p'cY'by-W
+V*p'cY'by-l
 
 
 $ Simple Maths version $
@@ -12,5 +12,5 @@ $ (n(n+1)/2)^2 - n(n+1)(2n+1)/6 $
 $ ((n^2 + n)/2)^2 - (2n^3 + 3n^2 + n)/6 $
 
 'ai100;V*V'ay+2/V*'bp
-'ayV*V'ay*2*'cp'ayV*3*V'cy+V'ay+6/V'by-W
+'ayV*V'ay*2*'cp'ayV*3*V'cy+V'ay+6/V'by-l
 

@@ -15,4 +15,4 @@ $ f = current max $
 2`aY'dy-0!j'dY'fy-0<j'dy'fp             $ set new max if bigger than previous $
 'ay900<ji999;1`ay900?2jx13k             $ decrement starting numbers $
 'ax14k                                  $ loop back to multiplcation $
-'fyW                                    $ output max $
+'fyl                                    $ output max $

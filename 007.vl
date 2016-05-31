@@ -12,4 +12,4 @@ i2;                 $ a contains all previously found primes $
 'caa3k              $ increase c by 2 (odds only) and try again $
 'da10000?2j         $ check if we've reached the 10001th prime and exit $
 'cy'dY`ap2k         $ set a[d] to latest prime c $
-'cyW                $ print out 10001th prime $
+'cyl                $ print out 10001th prime $
