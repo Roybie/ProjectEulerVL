@@ -1,0 +1,14 @@
+$ Project Euler problem #9 $
+$ Find abc where a^2+b^2=c^2 and a+b+c=1000 $
+
+'ci997;             $ set c $
+1000vY-'bpx         $ set b to 1000 - c - 1 $
+1000vY-'cY-'ap      $ set a to 1000 - b - c $
+
+$ calculate squares in second index of marks $
+'ayV*`ap
+'byV*`bp
+'cyV*`cp
+
+`ay`bY+`cY?j'bx1<7k'cx334<8kiNo Solution;l2j
+'ay'bY*'cY*l

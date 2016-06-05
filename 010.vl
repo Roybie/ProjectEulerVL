@@ -1,0 +1,15 @@
+$ Project Euler problem #10 $
+$ Find sum of all primes below 2 million $
+
+i2;                 $ a contains all previously found primes $
+'ep                 $ e contains sum $
+'ci3;               $ c is current number to check $
+
+'bi0;               $ reset index of a to divide next $
+'bY`ayV*V'cy>3j     $ if a[b] is bigger than sqrt(c) then c must be prime $
+'bY`aY'cy/v0?j'bak  $ if a[b] divides into c evenly, not a prime, otherwise increase b and try next prime $
+'caa3k              $ increase c by 2 (odds only) and try again $
+2000000<3j'eY+p     $ check if current prime is greater than 2,000,000 and exit, otherwise add to sum $
+'da                 $ increment d $
+'cy'dY`ap3k         $ set a[d] to latest prime c $
+'eyl                $ print out sum $
