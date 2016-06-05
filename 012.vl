@@ -1,0 +1,14 @@
+$ Project Euler problem #12 $
+$ First triangle number with over 500 divisors $
+
+'aa         $ triangle number = sum up to 'a $
+'aY'by+p    $ b holds triangle number $
+
+'di1;       $ incrememnt d and see if it is a divisor $
+'ei2;       $ e counts divisors $
+
+'daV*'bY>j'bY?2j3j      $ check d^2 against triangle number $
+'by'dY/v0!k'e2ak        $ if less than, check if it is a divisor and add 2 to total if so $
+'ea                     $ if exactly equal, add 1 to total and break loop $
+'ey500>10k              $ if over 500 divisors exit, else check next triangle number $
+'byl                    $ print triangle number value $
